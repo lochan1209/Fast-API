@@ -1,3 +1,5 @@
 fastapi
 pytest
 httpx2
+uvicorn
+pydantic
